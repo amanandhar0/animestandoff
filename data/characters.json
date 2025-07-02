@@ -6,9 +6,279 @@
     "power": 0
   },
   {
+    "name": "Alvida",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Alvida.webp",
+    "power": 0
+  },
+  {
+    "name": "Big Mom",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Big_Mom.webp",
+    "power": 0
+  },
+  {
+    "name": "Blackbeard",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Blackbeard.avif",
+    "power": 0
+  },
+  {
+    "name": "Bon Kurei",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Bon_kurei.jpg",
+    "power": 0
+  },
+  {
+    "name": "Bonney",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Bonney.webp",
+    "power": 0
+  },
+  {
+    "name": "Caesar Clown",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Caesar_Clown.webp",
+    "power": 0
+  },
+  {
+    "name": "Condoriano",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Condoriano.jpg",
+    "power": 0
+  },
+  {
+    "name": "Crocodile",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Crocodile.webp",
+    "power": 0
+  },
+  {
+    "name": "Figarland",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Figarland.webp",
+    "power": 0
+  },
+  {
+    "name": "Gold-Roger",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Gold-Roger.avif",
+    "power": 0
+  },
+  {
+    "name": "Hawkins",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Hawkins.avif",
+    "power": 0
+  },
+  {
+    "name": "Helemeppo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Helemeppo.jpg",
+    "power": 0
+  },
+  {
+    "name": "Hiriluk",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Hiriluk.webp",
+    "power": 0
+  },
+  {
+    "name": "Hody Jones",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Hody_Jones.webp",
+    "power": 0
+  },
+  {
+    "name": "Ivankov",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Ivankov.webp",
+    "power": 0
+  },
+  {
+    "name": "Kanjuro",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Kanjuro.webp",
+    "power": 0
+  },
+  {
+    "name": "Karoo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Karoo.webp",
+    "power": 0
+  },
+  {
+    "name": "Kozuki Oden",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Kozuki_oden.jpg",
+    "power": 0
+  },
+  {
+    "name": "Mihawk",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Mihawk.webp",
+    "power": 0
+  },
+  {
+    "name": "Momonosuke",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Momonosuke.jpg",
+    "power": 0
+  },
+  {
+    "name": "Mr1 Daz Bonez",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Mr1 Daz Bonez.jpg",
+    "power": 0
+  },
+  {
+    "name": "Mr4",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Mr4.jpg",
+    "power": 0
+  },
+  {
+    "name": "Rocks D Xebec",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Rocks_D_Xebec.webp",
+    "power": 0
+  },
+  {
+    "name": "Shirahoshi",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Shirahoshi.webp",
+    "power": 0
+  },
+  {
+    "name": "Silvers Rayleigh",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/Silvers_Rayleigh.jpg",
+    "power": 0
+  },
+  {
+    "name": "Ace",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/ace.jpg",
+    "power": 0
+  },
+  {
+    "name": "Akainu",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/akainu.jpg",
+    "power": 0
+  },
+  {
+    "name": "Apoo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/apoo.webp",
+    "power": 0
+  },
+  {
+    "name": "Arlong",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/arlong.webp",
+    "power": 0
+  },
+  {
+    "name": "Baby5",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/baby5.png",
+    "power": 0
+  },
+  {
+    "name": "Bartolomeo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/bartolomeo.webp",
+    "power": 0
+  },
+  {
+    "name": "Beckman",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/beckman.jpg",
+    "power": 0
+  },
+  {
+    "name": "Bellamy",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/bellamy.jpg",
+    "power": 0
+  },
+  {
+    "name": "Broggy",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/broggy.webp",
+    "power": 0
+  },
+  {
     "name": "Brook",
     "anime": "Onepiece",
     "image": "/characters/onepiece/brook.webp",
+    "power": 0
+  },
+  {
+    "name": "Brulee",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/brulee.avif",
+    "power": 0
+  },
+  {
+    "name": "Buggy",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/buggy.jpg",
+    "power": 0
+  },
+  {
+    "name": "Burgees",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/burgees.jpg",
+    "power": 0
+  },
+  {
+    "name": "Cabaji",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/cabaji.avif",
+    "power": 0
+  },
+  {
+    "name": "Calgara",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/calgara.jpg",
+    "power": 0
+  },
+  {
+    "name": "Camie",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/camie.webp",
+    "power": 0
+  },
+  {
+    "name": "Capone Bege",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/capone bege.png",
+    "power": 0
+  },
+  {
+    "name": "Caribou",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/caribou.webp",
+    "power": 0
+  },
+  {
+    "name": "Carrot",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/carrot.avif",
+    "power": 0
+  },
+  {
+    "name": "Cavendish",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/cavendish.png",
+    "power": 0
+  },
+  {
+    "name": "Chinjao",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/chinjao.webp",
     "power": 0
   },
   {
@@ -18,9 +288,267 @@
     "power": 0
   },
   {
+    "name": "Chouchou",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/chouchou.png",
+    "power": 0
+  },
+  {
+    "name": "Crocus",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/crocus.jpg",
+    "power": 0
+  },
+  {
+    "name": "Dadan",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/dadan.webp",
+    "power": 0
+  },
+  {
+    "name": "Diamante",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/diamante.png",
+    "power": 0
+  },
+  {
+    "name": "Doglamingo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/doglamingo.webp",
+    "power": 0
+  },
+  {
+    "name": "Don Kreig",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/don kreig.webp",
+    "power": 0
+  },
+  {
+    "name": "Dorry",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/dorry.webp",
+    "power": 0
+  },
+  {
+    "name": "Dragon",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/dragon.avif",
+    "power": 0
+  },
+  {
+    "name": "Duval",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/duval.webp",
+    "power": 0
+  },
+  {
+    "name": "Enel",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/enel.webp",
+    "power": 0
+  },
+  {
+    "name": "Foxy",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/foxy.png",
+    "power": 0
+  },
+  {
     "name": "Franky",
     "anime": "Onepiece",
     "image": "/characters/onepiece/franky.webp",
+    "power": 0
+  },
+  {
+    "name": "Fujitora",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/fujitora.avif",
+    "power": 0
+  },
+  {
+    "name": "Fullbody",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/fullbody.webp",
+    "power": 0
+  },
+  {
+    "name": "Garp",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/garp.webp",
+    "power": 0
+  },
+  {
+    "name": "Hajrudin",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/hajrudin.webp",
+    "power": 0
+  },
+  {
+    "name": "Hankok",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/hankok.webp",
+    "power": 0
+  },
+  {
+    "name": "Hatchan",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/hatchan.webp",
+    "power": 0
+  },
+  {
+    "name": "Hogback",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/hogback.png",
+    "power": 0
+  },
+  {
+    "name": "Hyogoro",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/hyogoro.jpg",
+    "power": 0
+  },
+  {
+    "name": "Imu",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/imu.webp",
+    "power": 0
+  },
+  {
+    "name": "Inazuma",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/inazuma.jpg",
+    "power": 0
+  },
+  {
+    "name": "Jack",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/jack.webp",
+    "power": 0
+  },
+  {
+    "name": "Jango",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/jango.avif",
+    "power": 0
+  },
+  {
+    "name": "Judge",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/judge.avif",
+    "power": 0
+  },
+  {
+    "name": "Kaido",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kaido.webp",
+    "power": 0
+  },
+  {
+    "name": "Kaku",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kaku.webp",
+    "power": 0
+  },
+  {
+    "name": "Katakuri",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/katakuri.webp",
+    "power": 0
+  },
+  {
+    "name": "Kid",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kid.avif",
+    "power": 0
+  },
+  {
+    "name": "Killer",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/killer.webp",
+    "power": 0
+  },
+  {
+    "name": "Kinemon",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kinemon.png",
+    "power": 0
+  },
+  {
+    "name": "King",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/king.png",
+    "power": 0
+  },
+  {
+    "name": "Kizaru",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kizaru.jpg",
+    "power": 0
+  },
+  {
+    "name": "Koala",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/koala.webp",
+    "power": 0
+  },
+  {
+    "name": "Koby",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/koby.jpg",
+    "power": 0
+  },
+  {
+    "name": "Kokoro",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kokoro.webp",
+    "power": 0
+  },
+  {
+    "name": "Korazon",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/korazon.jpg",
+    "power": 0
+  },
+  {
+    "name": "Kureha",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kureha.webp",
+    "power": 0
+  },
+  {
+    "name": "Kuro",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kuro.webp",
+    "power": 0
+  },
+  {
+    "name": "Kuzan",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kuzan.webp",
+    "power": 0
+  },
+  {
+    "name": "Kyros",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/kyros.webp",
+    "power": 0
+  },
+  {
+    "name": "Loki",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/loki.webp",
+    "power": 0
+  },
+  {
+    "name": "Lola",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/lola.webp",
+    "power": 0
+  },
+  {
+    "name": "Lucky Roo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/lucky_roo.jpg",
     "power": 0
   },
   {
@@ -30,15 +558,129 @@
     "power": 0
   },
   {
+    "name": "Marco",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/marco.jpg",
+    "power": 0
+  },
+  {
+    "name": "Momoo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/momoo.jpg_large",
+    "power": 0
+  },
+  {
+    "name": "Monet",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/monet.webp",
+    "power": 0
+  },
+  {
+    "name": "Morgan",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/morgan.webp",
+    "power": 0
+  },
+  {
+    "name": "Moria",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/moria.webp",
+    "power": 0
+  },
+  {
+    "name": "Mr",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/mr.3.webp",
+    "power": 0
+  },
+  {
+    "name": "Mr5",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/mr5.webp",
+    "power": 0
+  },
+  {
     "name": "Nami",
     "anime": "Onepiece",
     "image": "/characters/onepiece/nami.webp",
     "power": 0
   },
   {
-    "name": "Nico-robin",
+    "name": "Nico Robin",
     "anime": "Onepiece",
-    "image": "/characters/onepiece/nico-robin.webp",
+    "image": "/characters/onepiece/nico robin.webp",
+    "power": 0
+  },
+  {
+    "name": "Perona",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/perona.jpg",
+    "power": 0
+  },
+  {
+    "name": "Pika",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/pika.png",
+    "power": 0
+  },
+  {
+    "name": "Pudding",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/pudding.jpg",
+    "power": 0
+  },
+  {
+    "name": "Queen",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/queen.webp",
+    "power": 0
+  },
+  {
+    "name": "Raizo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/raizo.jpg",
+    "power": 0
+  },
+  {
+    "name": "Rebecca",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/rebecca.jpg",
+    "power": 0
+  },
+  {
+    "name": "Reiju",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/reiju.webp",
+    "power": 0
+  },
+  {
+    "name": "Richie",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/richie.webp",
+    "power": 0
+  },
+  {
+    "name": "Rob Lucci",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/rob lucci.avif",
+    "power": 0
+  },
+  {
+    "name": "Ryuma",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/ryuma.webp",
+    "power": 0
+  },
+  {
+    "name": "Sabo",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sabo.webp",
+    "power": 0
+  },
+  {
+    "name": "Sai",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sai.webp",
     "power": 0
   },
   {
@@ -48,15 +690,141 @@
     "power": 0
   },
   {
+    "name": "Sengoku",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sengoku.jpg",
+    "power": 0
+  },
+  {
+    "name": "Senor Pink",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/senor pink.jpg",
+    "power": 0
+  },
+  {
+    "name": "Sentomaru",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sentomaru.webp",
+    "power": 0
+  },
+  {
+    "name": "Shanks",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/shanks.webp",
+    "power": 0
+  },
+  {
+    "name": "Shiki",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/shiki.webp",
+    "power": 0
+  },
+  {
+    "name": "Shiryu",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/shiryu.webp",
+    "power": 0
+  },
+  {
+    "name": "Smoker",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/smoker.jpg",
+    "power": 0
+  },
+  {
+    "name": "Spandam",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/spandam.webp",
+    "power": 0
+  },
+  {
+    "name": "St Carlos",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/st carlos.avif",
+    "power": 0
+  },
+  {
+    "name": "Sterry",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sterry.webp",
+    "power": 0
+  },
+  {
+    "name": "Sugar",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sugar.webp",
+    "power": 0
+  },
+  {
+    "name": "Surume",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/surume.webp",
+    "power": 0
+  },
+  {
+    "name": "Tashigi",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/tashigi.png",
+    "power": 0
+  },
+  {
     "name": "Trafalgar-law",
     "anime": "Onepiece",
     "image": "/characters/onepiece/trafalgar-law.webp",
     "power": 0
   },
   {
+    "name": "Trebol",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/trebol.webp",
+    "power": 0
+  },
+  {
     "name": "Ussop",
     "anime": "Onepiece",
     "image": "/characters/onepiece/ussop.jpeg",
+    "power": 0
+  },
+  {
+    "name": "Vivi",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/vivi.webp",
+    "power": 0
+  },
+  {
+    "name": "Wanze",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/wanze.avif",
+    "power": 0
+  },
+  {
+    "name": "Wapol",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/wapol.webp",
+    "power": 0
+  },
+  {
+    "name": "Whitebeard",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/whitebeard.jpg",
+    "power": 0
+  },
+  {
+    "name": "Yamato",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/yamato.webp",
+    "power": 0
+  },
+  {
+    "name": "Yasopp",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/yasopp.jpg",
+    "power": 0
+  },
+  {
+    "name": "Yasui",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/yasui.webp",
     "power": 0
   },
   {

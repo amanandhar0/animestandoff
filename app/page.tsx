@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-8 text-center">
       <h1 className="text-3xl font-bold mb-6">🎴 Anime Standoff</h1>
-
       <p className="mb-4">Choose a game mode:</p>
 
       <div className="flex gap-4">
@@ -18,12 +17,12 @@ export default function Home() {
         >
           One Piece
         </button>
-        <button
+        {/* <button
           onClick={() => router.push('/game?mode=all')}
           className="px-6 py-2 bg-green-600 text-white rounded-xl"
         >
           All Anime
-        </button>
+        </button> */}
       </div>
     </main>
   );
