@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Guts",
+    "anime": "Berserk",
+    "image": "/characters/berserk/guts.jpg",
+    "power": 0
+  },
+  {
+    "name": "Brook",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/brook.webp",
+    "power": 0
+  },
+  {
+    "name": "Chopper",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/chopper.webp",
+    "power": 0
+  },
+  {
+    "name": "Franky",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/franky.webp",
+    "power": 0
+  },
+  {
+    "name": "Luffy",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/luffy.jpg",
+    "power": 0
+  },
+  {
+    "name": "Nami",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/nami.webp",
+    "power": 0
+  },
+  {
+    "name": "Nico-robin",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/nico-robin.webp",
+    "power": 0
+  },
+  {
+    "name": "Sanji",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/sanji.webp",
+    "power": 0
+  },
+  {
+    "name": "Trafalgar-law",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/trafalgar-law.webp",
+    "power": 0
+  },
+  {
+    "name": "Ussop",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/ussop.jpeg",
+    "power": 0
+  },
+  {
+    "name": "Zoro",
+    "anime": "Onepiece",
+    "image": "/characters/onepiece/zoro.jpg",
+    "power": 0
+  }
+]
